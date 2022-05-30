@@ -1,0 +1,27 @@
+{
+  "noOfUnits":"#noOfUnits#",
+  "purchasePrice":"#purchasePrice#",
+  "approvalDate":"#approvalDate#",
+  "fees":"#fees#",
+  "investmentAmount":"#investmentAmount#",
+  "navDate":"#approvalDate#",
+  "orderType":"LMT",
+  "subTempGoalId": "#subTempGoalId#",
+  "subscriptionDate": "#subscriptionDate#",
+  "fundRemarks":{
+    "amountCreditedToBank": "#amountCreditedToBank#",
+    "bankCharges":"#bankCharges#",
+    "kristalFees":"#kristalFees#",
+    "otherCharges": "#otherCharges#",
+    "placementFees": "#placementFees#",
+    "externalManagerFees":"#externalManagerFees#",
+    "comments":"test equalisation debit/ credit automation",
+    "eqCreditDebit": [
+      {
+      "date": "#date#",
+      "eqCreditDebitType":"#eqCreditDebitType#",
+      "eqAmount": "#eqAmount#"
+    }
+      ]
+  }
+}
